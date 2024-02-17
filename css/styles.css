@@ -203,10 +203,10 @@ img {
     color: #2e2f42;
 }
 
-/* .mob-link:hover,
+.mob-link:hover,
 .mob-link:focus {
     color: #404BBF;
-} */
+}
 
 .mob-link:first-child {
     color: #404bbf;
@@ -231,10 +231,10 @@ img {
     color: #434455;
 }
 
-/* .mob-address:hover,
+.mob-address:hover,
 .mob-address:focus {
     color: #404BBF;
-} */
+}
 
 .mob-address:first-child {
     color: #404bbf;
